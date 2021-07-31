@@ -10,4 +10,4 @@ Lastly, the page was missing it's head title and this was also corrected.
 
 I've included a screen recording of site that can be found here: https://drive.google.com/file/d/11Z_LpJUKWGy_fDbNtqgnP-FW35RAXmVu/view
 
-Please also find the link to the deployed application here: 
+Please also find the link to the deployed application here: https://github.com/denimazzei/Deni-refactoring-hw1.github.io/settings/pages
