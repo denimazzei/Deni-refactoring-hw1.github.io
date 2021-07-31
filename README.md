@@ -7,3 +7,7 @@ Additionally, alts were added to images for accessiblity, as well as media scree
 Furthermore, the HTML code was revised to semantic tags to clean it up, which resulted in a few changes as noted to the CSS. To increase the efficiency of the CSS, I tried consolidating as many of the selectors and properties as possible, and organized them to follow the semantic structure of the HTML elements.
 
 Lastly, the page was missing it's head title and this was also corrected.
+
+I've included a screen recording of site that can be found here: https://drive.google.com/file/d/11Z_LpJUKWGy_fDbNtqgnP-FW35RAXmVu/view
+
+Please also find the link to the deployed application here: 
